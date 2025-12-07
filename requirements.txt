@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+shapely
+mysql-connector-python
